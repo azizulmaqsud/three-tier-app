@@ -1,4 +1,4 @@
-# Project-1: Three-tier Application Deployment with VPC, Nginx, Load Balancer, Auto Scaling, and RDS
+# Three-tier Application Deployment with VPC, Nginx, Load Balancer, Auto Scaling, and RDS
 ## Project roadmap
 - Create a VPC with 6 subnets, 4 route tables, an IGW, and a NAT using VPC Wizard
 - Create 4 EC2 servers for the bastion, backend, frontend, and database. Keep the bastion in a public subnet and others in private subnets
